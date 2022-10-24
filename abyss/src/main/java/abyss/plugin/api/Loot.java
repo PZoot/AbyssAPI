@@ -12,7 +12,7 @@ public final class Loot {
 
     private static final int ITEM_CONTAINER_ID = 773;
     private static final int WIDGET_ID = 1622;
-    private static final int WIDGET_INTERACT_ID = 106299402;
+    private static final int WIDGET_INTERACT_ID = 106299403;
     private static final int WIDGET_CLOSE_INTERACT_ID = 106299400;
     private static final int WIDGET_LOOT_ALL_INTERACT_ID = 106299414;
 
